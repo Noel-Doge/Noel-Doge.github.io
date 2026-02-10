@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html/>
 <html>
 	<head>
 		<title> Dani Noel LSC555 Website</title>
