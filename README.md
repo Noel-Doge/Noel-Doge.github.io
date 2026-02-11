@@ -1,7 +1,7 @@
 <!DOCTYPE html/>
 <html>
 	<head>
-		<title> Dani Noel LSC555 Website</title>
+		<title> Dani Noel LSC555 Website </title>
 		<meta name="keywords" content="LSC55, Noel, Discussion"/>
 		<meta charset="UTF-8" />
 	</head>
