@@ -3,7 +3,7 @@
 	<head>
 		<title> Dani Noel LSC555 Website</title>
 		<meta name="keywords" content="LSC55, Noel, Discussion"/>
-		<meta charset="UTF-8 />
+		<meta charset="UTF-8" />
 	</head>
 	<body>
 		<h1> The important work being done in the MLIS program. </h1>
