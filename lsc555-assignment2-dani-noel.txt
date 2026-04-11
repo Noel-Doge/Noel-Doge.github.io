@@ -1,0 +1,75 @@
+<!DOCTYPE html/>
+<html>
+	<head>
+		<title> Dani Noel LSC555 Assignment 2  </title>
+		<meta name="keywords" content="LSC55, Noel, Discussion"/>
+		<meta charset="UTF-8" />
+		<style>
+		  table, th, td {
+		    border: 1px solid black;
+		  }
+		</style>
+	</head>
+	<body>
+		<h1> Part 1 Step 1</h1>
+		<p> The inputs and outputs for The Tower newspaper website.</p>
+		<table style="width:100%"> 
+			<tr>
+				<th> Inputs </th>
+				<th> Outputs </th>
+			</tr>
+			<tr>
+				<td> Click “Donate”  </td>
+				<td> Redirects to the donate page (https://cuatower.com/donate-2/) which has a link to further webpage where the user can give money to support the newspaper. </td>
+			</tr> 
+			<tr>
+				<td> Click “Crosswords and Comics”, then “Centennial Crossword: 100 Years of The Tower”, and then click “here” next to “download the puzzle to print” </td>
+				<td> Redirected to a google drive page where the user could download the crossword puzzle (link is defunct) </td>
+			</tr> 
+
+			<tr>
+				<td> Type “Sports” into the search bar  </td>
+				<td> Redirected to search results page filled primarily with “Cardinal Sports Report” articles. </td>
+			</tr> 
+			<tr>
+				<td> Click “Subscribe”, and fill the email address box with your email address </td>
+				<td> User is added to mailing list, and receives periodic emails.  </td>
+			</tr> 
+
+		</table>
+		
+		<h2> Part 1 Step 2 </h2> 
+		<p>
+			<ol type="1">
+ 			 <li>Visibility of system status -> The “Flash Story” bar on the main page is a useful guide for breaking news and very recent stories. Otherwise, little of note.</li>
+ 			 <li>Match between system and the real world -> While lacking help tips, it has sufficient menu labels for the major sections</li>
+  			 <li>User control and freedom  -> Little applicable except for clicking the large “The Tower” above the main labels. Very unclear that this would take one to the home page as, besides the small “home” above the article title, there is no clear way to return to the homepage.</li>
+			 <li>Consistency and standards  -> Generally consistent in format and standards</li>
+  			 <li>Error prevention -> Little to no error prevention</li> 
+			 <li>Recognition rather than recall  -> Little in terms of visible system metadata/organization beyond broad categories such as “sports” or “politics”</li>
+  			 <li> Flexibility and efficiency of us  -> No customization. Shortcuts for common topics like sports and politics, featured articles, and the new articles. </li>
+			 <li>Aesthetic and minimalist design  -> While minimalist in colors, very large block of information all together with the “Flash Story”, “Editor’s Pick”, “Featured”, and “What’s New” all quickly throwing a lot of information and links at the user</li>
+  			 <li> Help users recognize, diagnose, and recover from error -> No notable indicators for problem solving.</li>
+			 <li>Help and documentation -> No help page, FAQ, or information about the site as a whole besides an “about us” listing the staff.</li>
+			</ol>
+		Overall: It is a useful site for undergraduate teachers who are looking to find a simple news source for articles involving CUA or the broad Catholic community.
+
+		Looking through the search engine on the Tower, I searched using simply “LGBT” as my topic. As expected of an institution connected to the Catholic Church, Catholic University has a very tenuous relationship with acceptance of LGBT individuals. While officially tolerant, CUA board officially denied any LGBT association repeatedly, until CUAllies was recognized in 2021. For teachers of religion, social studies, psychology, or medicine, it is relevant to look at the many articles discussing LGBT individuals in terms of medical science, Church acceptance (or lack thereof) and doctrine, as well as social situations. 
+
+		</p>
+
+	<h2> Part 1 Step 3 </h2>
+		<p> 
+		One of the top strengths for the site is how thoroughly and frequently it is updated with current events concerning the school. The other top strength is the breadth of the articles, generally touching up on other topics such as movies, sports, and politics. I would say that one of the biggest weaknesses of the site is that it is lacking in help, FAQ, and supplementary information. Another weakness is that I believe it could have a clearer design for the shortcuts to the home page to be clearer for users. 
+		</p>
+	
+		<h1> Part 2 -- Result Comparison </h1>
+		<p> 
+		To begin, there were similarities between mine and the tester's experience, but only for a short amount of time. Primarily, we both found that The Tower had a generally decent layout that was sensibly designed for its modern articles. We also both agreed that the lack of support that The Tower had for users made certain aspects of it very difficult to use. After the test, both the tester and I agreed that having a more robust search system, and a help/FAQ page would help it significantly.
+<br>
+<br>
+		The main differences between my heuristics test and the tester's was the focus. While I was able to focus on a contemporary topic that had much current discourse, the tester did not. They were given specific timeframes to look for, and article types to find, and were unable to find those specifics. I did nnot have those problems as I was able to search for a wide variety of topics that had recent articles. Due to the search system only having easy-to-find archives back to 2015, I do not believe that The Tower is a great source for finding those World War 2 and Vietnam articles.
+		</p>
+		
+	</body>
+</html>
